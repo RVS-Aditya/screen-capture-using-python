@@ -1,0 +1,5 @@
+pip install pillow
+pip install numpy 
+pip install opencv-contrib-python
+////////////////////////////////////or///////////////////////////////////////////////////
+pip install pillow numpy opencv-contrib-python
